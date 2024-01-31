@@ -13,7 +13,7 @@ font_size = 24
 font = ImageFont.truetype("Roboto-Light.ttf", font_size)
 
 telegram_key = "6683253948:AAGkgcEwFb4pYfPnZeziAM6KOzSjm45ctp0"
-openai.api_key = "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"
+openai.api_key = "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"
 
 bot = telebot.TeleBot(telegram_key)
 
